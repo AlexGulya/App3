@@ -13,6 +13,7 @@ def append_person(list):
     name = input("Name: ")
     age = int(input("age: "))
     list.append(Person(name,age))
+    print("hfbjksdf")
 
 
 while(True):
